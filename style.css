@@ -1,0 +1,11 @@
+.sign-up-column1 {
+	display: inline;
+	width: 15%;
+	float: left;
+}
+
+.sign-up-column2 {
+	display: inline;
+	width: 85%;
+	float: left;
+}
